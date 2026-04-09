@@ -54,17 +54,16 @@ class WhoAmI:
 ````
 
 ---
-
 ## Github Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Isuranga-2002&show_icons=true&theme=github_dark" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Isuranga-2002&show_icons=true&theme=github_dark" />
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Isuranga-2002&theme=blueberry_duo" />
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isuranga-2002&layout=compact&theme=github_dark" />
-</p>                                                                                                     |
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Isuranga-2002&layout=compact&theme=github_dark" />
+</p>                                                                                        
 
 ---
 
