@@ -1,16 +1,26 @@
-
-![Github Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Isuranga%20Dasun&fontSize=40&fontColor=ffffff)
-
-<h1 align="center">
-  Hi 👋, I'm Isuranga Dasun
-</h1>
-
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&center=true&vCenter=true&lines=Software+Engineering+Student;Backend+Developer;System+Design+Enthusiast;Building+Real-World+Projects" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Isuranga%20Dasun&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
+<!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Isuranga-2002&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Isuranga+Dasun;Software+Engineering+Student;Backend+Developer;System+Design+Enthusiast;Building+Real-World+Projects" />
+</p>
+
+<!-- Subtitle -->
+<h3 align="center">Software Engineer | Network and Cloud Security Enthusiast</h3>
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Isuranga-2002&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Isuranga-2002?label=Followers&style=flat&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/Isuranga-2002?label=Stars&style=flat&color=0e75b6" />
+</p>
+
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
 </p>
 
 ---
@@ -64,6 +74,14 @@ class WhoAmI:
 <p align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Isuranga-2002&layout=compact&theme=github_dark&border_radius=10" />
 </p>                                                                                
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isuranga-2002&theme=github_dark" />
+</p>
 
 ---
 
