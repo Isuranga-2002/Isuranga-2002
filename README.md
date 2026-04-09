@@ -57,9 +57,14 @@ class WhoAmI:
 
 ## Github Stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=Isuranga-2002&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isuranga-2002&theme=blueberry_duo"/> |
-| ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isuranga-2002&layout=compact&theme=github_dark"/>         |                                                                                                       |
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Isuranga-2002&show_icons=true&theme=github_dark" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Isuranga-2002&theme=blueberry_duo" />
+</p>
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isuranga-2002&layout=compact&theme=github_dark" />
+</p>                                                                                                     |
 
 ---
 
