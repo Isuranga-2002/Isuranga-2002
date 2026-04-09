@@ -1,6 +1,4 @@
 
-
-````markdown
 ![Github Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Isuranga%20Dasun&fontSize=40&fontColor=ffffff)
 
 <h1 align="center">
@@ -8,11 +6,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Engineering+Student;Backend+Developer;System+Design+Enthusiast;Building+Real-World+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&center=true&vCenter=true&lines=Software+Engineering+Student;Backend+Developer;System+Design+Enthusiast;Building+Real-World+Projects" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Isuranga-2002&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
@@ -59,9 +57,9 @@ class WhoAmI:
 
 ## Github Stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=blueberry_duo"/> |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark"/>         |                                                                                                              |
+| <img src="https://github-readme-stats.vercel.app/api?username=Isuranga-2002&show_icons=true&count_private=true&theme=github_dark"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isuranga-2002&theme=blueberry_duo"/> |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isuranga-2002&layout=compact&theme=github_dark"/>         |                                                                                                       |
 
 ---
 
@@ -131,7 +129,7 @@ class WhoAmI:
 ## Contribution Snake 🐍
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Isuranga-2002/Isuranga-2002/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -140,7 +138,7 @@ class WhoAmI:
 
 <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Isuranga-2002">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -154,6 +152,5 @@ class WhoAmI:
 
 ⭐ *"Building systems that solve real-world problems."*
 
-````
 
 
